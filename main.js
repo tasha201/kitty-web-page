@@ -23,21 +23,6 @@ function onPhotoClick() {
 }
 catPhoto.addEventListener("click", onPhotoClick);
 
-// title.classList.remove("cats-title");
-
-// console.log(title);
-
-// title.style.cssText = "color: tomato; font-size: 50px";
-// title.style.fontSize = "50px";
-
-// String
-// Number
-// Boolean
-// Null
-// Undefined
-// Symbol
-// bigInt
-// Object
 
 const slider = document.querySelector(".hero-list");
 const next = document.querySelector(".next");
